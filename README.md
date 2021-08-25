@@ -1,7 +1,7 @@
 ## Desafio Frontend Inovan.do
 
 
-**Introdução:**
+### Introdução:
 
 Olá seja bem-vindo ao processo seletivo da Inovando Software House para a vaga de Desenvolvedor Frontend.
 
@@ -13,7 +13,7 @@ Boa sorte e conte com a gente no caso de qualquer dúvida.⚡️
 
 Email de contato: contato@inovan.do
 
-**Sobre:**
+###  Sobre:
 
 O objetivo deste desafio é produzir um CRUD utilizando nosso template em React Js + Material Ui. 
 
@@ -22,12 +22,12 @@ O template fornece todas as ferramentas necessárias para a execução do teste,
 
 [Documentação Template Inovan.do](https://github.com/inovando/cra-template-inovando)
 
-**Como participar:**
+### Como participar:
 
 Crie um repositório público com o código fonte e ao terminar envie e-mail para contato@inovan.do com o link de acesso e os seus dados de contato que o restante é conosco!
 
 
-**Requisitos:**
+### Requisitos:
 
 - [ ] Criar uma entrada no menu, com sua respectiva rota e pagina.
 - [ ] Consumir os dados a partir da api: https://jsonplaceholder.typicode.com/ (Você pode escolher qualquer recurso que desejar para implementar o teste)
@@ -36,5 +36,3 @@ Crie um repositório público com o código fonte e ao terminar envie e-mail par
 - [ ] Um usuário precisa editar o recurso, todos os campos são editáveis.
 - [ ] Um usuário precisa excluir um recurso.
 - [ ] Não é necessario autenticação.
-
-
