@@ -5,7 +5,7 @@
 
 Olá seja bem-vindo ao processo seletivo da Inovando Software House para a vaga de Desenvolvedor Frontend.
 
-Através deste desafio você irá conhecer um pouco sobre template de desenvolvimento da Inovando e também conhecermos um pouco das suas habilidades técnicas.
+Através deste desafio você irá conhecer um pouco sobre template de desenvolvimento da Inovando e também vamos conhecer um pouco das suas habilidades técnicas.
 
 Os candidatos aprovados serão encaminhados para entrevista, mas damos retorno a todos que se aplicarem ao teste assim que verificarmos cada trabalho realizado.
 
